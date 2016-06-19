@@ -1,1 +1,1 @@
-# -Image-Processing-Projects
+C++ Code for Color Transfer and Image Stitch
